@@ -1,0 +1,89 @@
+C:\Users\Raj\Desktop\POS\Point Of Sale\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmAbout.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCategory.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCategoryRecord.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmChangePassword.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCustomers.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmProductsRecord.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCustomersRecord.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCustomersReport.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmInvoiceReport.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmLogin.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmLoginDetails.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmMainMenu.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmProduct.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmRecoveryPassword.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmRegisteredUsersDetails.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSales.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSalesRecord1.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSalesReport.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSplash.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmRegistration.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\Restauran Management System.exe.config
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\Restauran Management System.exe
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\bin\Debug\Restauran Management System.pdb
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restauran Management System.exe
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restauran Management System.pdb
+C:\Users\Raj\Desktop\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSalesRecord.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\bin\Debug\Restauran Management System.exe.config
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restauran Management System.exe
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restauran Management System.pdb
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmAbout.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmMainMenu.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCategory.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCategoryRecord.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmChangePassword.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCustomers.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSalesRecord1.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmProductsRecord.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCustomersRecord.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmCustomersReport.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmInvoiceReport.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmLogin.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmLoginDetails.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmProduct.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmRecoveryPassword.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmRegisteredUsersDetails.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSales.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSalesRecord.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSalesReport.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmSplash.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmRegistration.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\bin\Debug\Restauran Management System.exe
+G:\3.2Resource\isdProject\project\Restaurant Management System\Restaurant Management System\bin\Debug\Restauran Management System.pdb
+G:\3.2Resource\isdProject\restaurant management system\bin\Debug\Restauran Management System.exe.config
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restauran Management System.exe
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restauran Management System.pdb
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmAbout.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmMainMenu.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmCategory.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmCategoryRecord.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmChangePassword.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmCustomers.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmSalesRecord1.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmProductsRecord.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmCustomersRecord.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmCustomersReport.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmInvoiceReport.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmLogin.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmLoginDetails.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmProduct.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmRecoveryPassword.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmRegisteredUsersDetails.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmSales.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmSalesRecord.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmSalesReport.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmSplash.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.frmRegistration.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant Management System.csproj.GenerateResource.Cache
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant Management System.csproj.ResolveComReference.cache
+G:\3.2Resource\isdProject\restaurant management system\bin\Debug\Restauran Management System.exe
+G:\3.2Resource\isdProject\restaurant management system\bin\Debug\Restauran Management System.pdb
+G:\3.2Resource\isdProject\restaurant management system\obj\Debug\Restaurant Management System.csprojResolveAssemblyReference.cache
